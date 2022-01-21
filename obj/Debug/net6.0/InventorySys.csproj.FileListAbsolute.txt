@@ -1,0 +1,15 @@
+C:\Promact\Training\C-Sharp\InventorySys\obj\Debug\net6.0\InventorySys.csproj.AssemblyReference.cache
+C:\Promact\Training\C-Sharp\InventorySys\obj\Debug\net6.0\InventorySys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Promact\Training\C-Sharp\InventorySys\obj\Debug\net6.0\InventorySys.AssemblyInfoInputs.cache
+C:\Promact\Training\C-Sharp\InventorySys\obj\Debug\net6.0\InventorySys.AssemblyInfo.cs
+C:\Promact\Training\C-Sharp\InventorySys\obj\Debug\net6.0\InventorySys.csproj.CoreCompileInputs.cache
+C:\Promact\Training\C-Sharp\InventorySys\bin\Debug\net6.0\InventorySys.exe
+C:\Promact\Training\C-Sharp\InventorySys\bin\Debug\net6.0\InventorySys.deps.json
+C:\Promact\Training\C-Sharp\InventorySys\bin\Debug\net6.0\InventorySys.runtimeconfig.json
+C:\Promact\Training\C-Sharp\InventorySys\bin\Debug\net6.0\InventorySys.dll
+C:\Promact\Training\C-Sharp\InventorySys\bin\Debug\net6.0\ref\InventorySys.dll
+C:\Promact\Training\C-Sharp\InventorySys\bin\Debug\net6.0\InventorySys.pdb
+C:\Promact\Training\C-Sharp\InventorySys\obj\Debug\net6.0\InventorySys.dll
+C:\Promact\Training\C-Sharp\InventorySys\obj\Debug\net6.0\ref\InventorySys.dll
+C:\Promact\Training\C-Sharp\InventorySys\obj\Debug\net6.0\InventorySys.pdb
+C:\Promact\Training\C-Sharp\InventorySys\obj\Debug\net6.0\InventorySys.genruntimeconfig.cache
